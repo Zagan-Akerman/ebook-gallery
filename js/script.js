@@ -212,6 +212,11 @@ const ebooks = [
         url: "https://www.dropbox.com/scl/fi/p1x099vw70vaxdifyj5no/El-ABC-del-Metal_Nicolas-Garcia-Barrera.pdf?rlkey=x0bvwqb15z5jrptec8pd3hbie&st=tqz7qv60&dl=0",
         type: "download",
         label: "Descargar"
+      },
+      {
+        url: "https://youtu.be/WLF23wocaqU",
+        type: "video",
+        label: "Ver en video"
       }
     ]
   },
