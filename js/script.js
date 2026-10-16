@@ -176,7 +176,7 @@ const ebooks = [
       "31 días de tinta, interpretación y experimentación. Una colección atravesada por distintas referencias, entre ellas la obra de Tolkien, Orwell y King.",
     year: 2020,
     pages: 68,
-    cover: "img/ink2020.png",
+    cover: "img/ink2020.jpg",
     links: [
       {
         url: "https://www.dropbox.com/scl/fi/2z3a5zxcvh05amvmfn0nz/Ink2020-Nicolas-Garcia-Barrera.pdf?rlkey=avtrc7trnrs4v5fqti1nmfrr2&st=ls5zq2r8&dl=0",
@@ -191,7 +191,7 @@ const ebooks = [
       "Mi primer Inktober: un punto de partida para explorar la tinta a través de palabras, historias y referencias. Una colección de 31 ilustraciones que dio inicio a esta serie.",
     year: 2019,
     pages: 68,
-    cover: "img/ink2019.png",
+    cover: "img/ink2019.jpg",
     links: [
       {
         url: "https://www.dropbox.com/scl/fi/yv6mzae691gx5oteumzfm/Ink2019-Nicolas-Garcia-Barrera.pdf?rlkey=qswvqz7munfbz6em4p39eq4dm&st=vbrksmk2&dl=0",
